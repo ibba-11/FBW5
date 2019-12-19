@@ -1,0 +1,18 @@
+/* *, ::after, ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+} */
+.someSpan1 {
+    background-color: red;
+    margin-right:2px;
+    padding-right: 10px;
+    /* padding-left: 10px; */
+   
+}
+.someSpan2 {
+    background-color: blue;
+    margin-left: 0;
+    
+}

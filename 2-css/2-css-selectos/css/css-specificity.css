@@ -1,0 +1,24 @@
+#par {
+    color: red;
+}
+.someclass {
+    color: blue;
+}
+.bar {
+    color: green;
+}
+/* .somediv> div> p {
+    color: red;
+} */
+.somediv div p {
+    color: aqua;
+}
+.somediv> div> p {
+    color: red;
+}
+/* .somediv p {
+    color: blueviolet !important ;
+} */
+.somediv p {
+    color: blueviolet ;
+}

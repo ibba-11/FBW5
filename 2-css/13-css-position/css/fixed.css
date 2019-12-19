@@ -1,0 +1,19 @@
+.someDiv {
+    height: 2000px;
+    width: 500px;
+    background-color: blue;
+}
+.subDiv {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: fixed;
+    top: 10px;
+}
+.goup {
+    position: fixed;
+    font-size: 30px;
+    right: 10px;
+    bottom: 10px;
+    color: blue;
+}

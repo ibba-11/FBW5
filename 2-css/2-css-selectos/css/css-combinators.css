@@ -1,0 +1,12 @@
+
+/* select the first div in the content */
+/* div:first-child {
+    color: red;
+}
+  */
+  p ~ div {
+      color: red;
+  }
+  /* p ~ article {
+      color: red;
+  } */

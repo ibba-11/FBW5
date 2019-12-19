@@ -1,0 +1,17 @@
+
+/* selector by tag name */
+title {
+    color: blue;
+    display: block;
+} 
+/* selector by class name */
+.paragraph {
+    letter-spacing: 3px;
+    text-shadow: 5px 5px 5px red;
+}
+/* selector by id name */
+#someID {
+    box-shadow: 5px -5px 5px black;
+    background-color: gray;
+} 
+

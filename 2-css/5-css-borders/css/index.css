@@ -1,0 +1,11 @@
+.someDiv {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    /* border-top-color:black ;
+    border-top-style: solid;
+    border-top-width: 5px; */
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: auto;
+}

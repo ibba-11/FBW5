@@ -1,0 +1,4 @@
+.divClass div p,
+.divClass> p {
+     color: red;
+ }

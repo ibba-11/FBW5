@@ -1,0 +1,28 @@
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/1.ttf);
+}
+@font-face {
+    font-family: myFont1;
+    src: url(../fonts/2.ttf);
+}
+@font-face {
+    font-family: myFont3;
+    src: url(../fonts/3.ttf);
+}
+@font-face {
+    font-family: myFont4;
+    src: url(../fonts/Schaeffer.ttf);
+}
+article h1 {
+    font-family: myFont4;
+   
+}
+article p {
+    font-family: myFont3;
+    font-weight: bolder;
+}
+/* font-family: 'Lobster', cursive; */
+section p {
+    font-family: 'Lobster', cursive;
+}

@@ -1,0 +1,10 @@
+.someDiv {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    position: sticky;
+    top: 10px;
+    /* top: 10px;
+    min top 10px between the scrreen and the div */
+    left: 150px;
+    }

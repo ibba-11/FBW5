@@ -1,0 +1,12 @@
+.nav {
+    display: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.togglebox {
+    display: none;
+}
+.togglebox:checked ~ .nav {
+    display: block;
+}

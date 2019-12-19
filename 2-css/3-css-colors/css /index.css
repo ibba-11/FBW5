@@ -1,0 +1,13 @@
+.someDiv {
+    /*  the first method is : color name */
+    /* background-color: red; */
+    /*  the second method is : rgb */
+    /* background-color: rgba*/
+      /* the third method is : rgba */
+    /* background-color: rgba(red, green, blue, alpha); */
+    /* Hex color */
+    background-color: rgba(80, 2, 2, 0.3);
+    height: 100vh;
+    position: absolute;
+    width: 100vw;
+}

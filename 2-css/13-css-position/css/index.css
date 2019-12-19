@@ -1,0 +1,35 @@
+.someDiv {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    /* left: 50px; */
+    right: 20px;
+    bottom: 20px;
+    /* top: 50px; */
+    position: relative;
+    z-index: 3;
+    /* the layer which has the heigher z-index will be in the top */
+}
+
+.par {
+    position: relative;
+    bottom: 100px;
+    z-index: 2;
+}
+
+.container {
+    position: relative;
+    background-color: cornflowerblue;
+    left: 100px;
+
+}
+
+.fixedDiv {
+    background-color: cyan;
+    height: 50px;
+    width: 50px;
+    position: sticky;
+    top: 50vh;
+    left: 50vw;
+   
+}

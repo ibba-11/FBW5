@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    background-color: aqua;
+    height: 500px;
+    width: 50%;
+}
+.child1 {
+    background-color: lightcoral;
+    width: 100px;
+}
+.child2 {
+    background-color: lightgray;
+    width: 50px;
+}
+.span1 {
+    background-color: lightgreen;
+    width: 50%;
+    display:inline-block ;
+    border: 1px solid black;
+    /* display: none; */
+    /* visibility: hidden; */
+    opacity: .5;
+}
+.span2 {
+    background-color:lightsalmon;
+    width: 50%;
+    display:inline-block;
+    /* margin-left: 1px; */
+    /* padding-left: 206px;
+    padding-right: 206px; */
+}
